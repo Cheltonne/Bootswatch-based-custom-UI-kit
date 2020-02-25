@@ -423,6 +423,7 @@ h6, .h6 {
   font-size: 3.5rem;
   font-weight: 300;
   line-height: 1.2;
+  color: white;
 }
 
 hr {
@@ -5436,6 +5437,11 @@ a.badge-dark:focus, a.badge-dark.focus {
 .jumbotron-fluid {
   padding-right: 0;
   padding-left: 0;
+}
+
+.banner-sm{
+  background-image: url(hand.jpg);
+  background-size: cover;
 }
 
 .alert {
